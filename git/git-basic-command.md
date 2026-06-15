@@ -24,6 +24,7 @@ Git Basic Commands
 6. git push
    - Uploads local commits to a remote repository.
    - Usually used after committing changes.
+   - Ex: git push -u origin main
 
 7. git pull
    - Fetches and merges changes from a remote repository.
